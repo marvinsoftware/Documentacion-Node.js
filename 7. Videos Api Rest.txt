@@ -1,0 +1,43 @@
+Node Js - Express Mario Giron (España)
+https://www.youtube.com/watch?v=T6rGUZGAWBk
+https://www.youtube.com/watch?v=0bl0vfV3g-c
+https://www.youtube.com/watch?v=bjeBrHdyg5g
+https://www.youtube.com/watch?v=50dugGTFvi8
+
+
+https://www.youtube.com/watch?v=794Q71KVw1k
+
+https://www.youtube.com/watch?v=yaMcqIeO9BU&list=PL-yog8huBN1jkfGnJ82HMTzDx9g7tOU0N
+
+https://www.youtube.com/watch?v=OWukxSRtr-A
+
+https://www.youtube.com/c/MarcoFeregrino/videos
+
+https://www.youtube.com/watch?v=_Fh13KHVJU0
+
+
+
+Consumir una Api con React
+https://www.youtube.com/watch?v=kZ4YaoCYais
+
+
+
+Crear una Api Rest en PHP
+https://www.youtube.com/watch?v=CgpwuY9nud4
+
+
+
+https://www.youtube.com/watch?v=zsnHIlsUPSU&t=1041s
+En lugar de usar bodyParser, pueden solamente poner " app.use(express.json()); " ya que express lo trae incluido en sus ultimas versiones
+
+NO ESTA EN DRIVE  DE AQUI EN ADELANTE---------------------------------------------------------------------------------------------------------- 
+
+https://www.youtube.com/watch?v=5wvvyrx6Fvw
+
+https://www.youtube.com/watch?v=60wglb8OZRQ
+
+https://www.youtube.com/watch?v=J9ekOcVTTUk
+
+https://www.youtube.com/watch?v=27JCqmykNdc&t=2s
+
+https://www.youtube.com/watch?v=VsDYN623eCE&t=6s
